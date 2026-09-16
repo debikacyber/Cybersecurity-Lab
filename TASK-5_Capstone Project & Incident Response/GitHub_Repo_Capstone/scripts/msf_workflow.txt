@@ -1,0 +1,16 @@
+MSF WORKFLOW — CONTROLLED LAB ONLY
+
+msfconsole
+search <identified vulnerability>
+info <module>
+use <module>
+show options
+set RHOSTS <METASPLOITABLE2_IP>
+# set only other required options shown by `show options`
+run
+
+# Validate only the permitted session evidence:
+sysinfo
+# hashdump only if explicitly required/authorized by the lab
+
+exit
