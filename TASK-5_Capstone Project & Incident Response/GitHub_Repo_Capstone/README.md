@@ -1,4 +1,6 @@
 ﻿# Vulnerability Assessment of Test Network.
+ ##Video link: https://www.linkedin.com/feed/update/urn:li:activity:7506009466463625216/
+
 
 ## Purpose
 Controlled vulnerability-assessment and exploitation-validation capstone performed only against the intentionally vulnerable Metasploitable2 VM in an isolated VMware Host-Only lab.
