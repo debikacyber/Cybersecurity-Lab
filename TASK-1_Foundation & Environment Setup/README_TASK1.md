@@ -1,4 +1,5 @@
 ﻿# TASK-1_Foundation & Environment Setup
+ Video link:https://lnkd.in/p/d-5PvJjU
 
 
 A controlled, isolated cybersecurity practice environment using **Kali Linux**, **Metasploitable 2**, **VMware Workstation**, and **Wireshark**.
